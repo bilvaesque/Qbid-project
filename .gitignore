@@ -1,0 +1,5 @@
+node_modules/
+dist/
+qbid.sqlite*
+.env
+.DS_Store
